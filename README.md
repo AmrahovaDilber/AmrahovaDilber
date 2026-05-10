@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer+🚀;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+Enthusiast+🎨;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,16 +56,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrahovaDilber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahovaDilber&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahovaDilber&theme=tokyonight&hide_border=true" width="70%" />
@@ -87,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AmrahovaDilber&icon=0&color=6" />
+<img src="https://komarev.com/ghpvc/?username=AmrahovaDilber&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
