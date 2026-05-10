@@ -83,9 +83,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmrahovaDilber&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
   <em>"First, solve the problem. Then, write the code." — John Johnson</em>
 </p>
