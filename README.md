@@ -69,6 +69,14 @@
 
 ---
 
+## 🥋 Codewars
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Dilber_Amrahova">
+    <img src="https://www.codewars.com/users/Dilber_Amrahova/badges/large" alt="Dilber Amrahova's Codewars badge" />
+  </a>
+</p>
+
 ## 📬 Connect With Me
 
 <p align="left">
